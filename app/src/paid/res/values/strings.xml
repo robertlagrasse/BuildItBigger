@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="missing_jokes">You paid for jokes, but there are no jokes.</string>
+    <string name="comm_issue">Communications issue. You have to wonder why you are paying for this.</string>
+    <string name="button_text">Paid Joke</string>
+</resources>
